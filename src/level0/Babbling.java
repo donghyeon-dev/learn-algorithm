@@ -1,3 +1,5 @@
+package level0;
+
 public class Babbling {
 
     /**
@@ -12,7 +14,7 @@ public class Babbling {
      * 1 ≤ babbling[i]의 길이 ≤ 15
      * babbling의 원소에서 "aya", "ye", "woo", "ma"는 각각 최대 한 번씩만 등장합니다.
      * 문자열은 알파벳 소문자로만 이루어져 있습니다.
-     
+
      * 입출력 예
      * babbling	result
      * ["aya", "yee", "u", "maa", "wyeoo"]	1
